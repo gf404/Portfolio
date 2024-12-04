@@ -23,16 +23,17 @@ data_1 = numeric_data.filter(regex='1$|A1$').drop(columns=exclude_columns, error
 # Filter data for variables ending in '5' and 'A2', excluding the specified columns
 data_5 = numeric_data.filter(regex='5$|A2$').drop(columns=exclude_columns, errors='ignore')
 
-# Function to create correlation matrix and p-values
+# Function to create a correlation matrix and calculate p-values using vectorization
 def create_corr_matrix(data):
-    corr_matrix = data.corr(method='spearman')
-    p_values = pd.DataFrame(np.zeros_like(corr_matrix), columns=corr_matrix.columns, index=corr_matrix.index)
-    for col in data.columns:
-        for row in data.columns:
-            if col != row:
-                corr, p = spearmanr(data[col], data[row])
-                p_values.loc[row, col] = p
+    # Calculates the correlation coefficients and p-values
+    corr, p_values = spearmanr(data, axis=0)
+    
+    # Convert to DataFrames
+    corr_matrix = pd.DataFrame(corr, index=data.columns, columns=data.columns)
+    p_values = pd.DataFrame(p_values, index=data.columns, columns=data.columns)
+    
     return corr_matrix, p_values
+
 
 # Create correlation matrices and p-values for data_1 and data_5
 corr_matrix_1, p_values_1 = create_corr_matrix(data_1)
