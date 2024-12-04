@@ -1,7 +1,7 @@
 # Import libraries: Pandas for data manipulation, Seaborn for heat map, matplotlib for displaying it.
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as pyplt
+import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import spearmanr
 import shutil
@@ -25,14 +25,14 @@ data_1 = numeric_data.filter(regex='1$|A1$').drop(columns=exclude_columns, error
 data_5 = numeric_data.filter(regex='5$|A2$').drop(columns=exclude_columns, errors='ignore')
 
 # Function to create a correlation matrix and calculate p-values.
-def create_corr_matrix(db):
-    corr_matrix = db.corr(method='spearman')
-    p_values = pd.DataFrame(np.zeros_like(corr_matrix), columns=corr_matrix.columns, index=corr_matrix.index)
-    for col in db.columns:
-        for row in db.columns:
-            if col != row:
-                corr, p = spearmanr(db[col], db[row])
-                p_values.loc[row, col] = p
+def create_corr_matrix(data):
+    # Calculates the correlation coefficients and p-values using vectorization
+    corr, p_values = spearmanr(data, axis=0)
+    
+    # Converts the numpy arrays to pandas DataFrames
+    corr_matrix = pd.DataFrame(corr, index=data.columns, columns=data.columns)
+    p_values = pd.DataFrame(p_values, index=data.columns, columns=data.columns)
+    
     return corr_matrix, p_values
 
 # Create correlation matrices and p-values for data_1 and data_5.
@@ -80,24 +80,24 @@ def plot_heatmap(corr_matrix, p_values, title):
         for j in range(i):
             p = p_values.iloc[i, j]
             if p < 0.01:
-                pyplt.text(j + 0.5, i + 0.70, '**', ha='center', va='top', color='black')
+                plt.text(j + 0.5, i + 0.70, '**', ha='center', va='top', color='black')
             elif p < 0.05:
-                pyplt.text(j + 0.5, i + 0.70, '*', ha='center', va='top', color='black')
-    pyplt.title(title)
+                plt.text(j + 0.5, i + 0.70, '*', ha='center', va='top', color='black')
+    plt.title(title)
 
 # Plot heatmaps and save them to a single SVG file. The SVG file gives it a better resolution.
-pyplt.figure(figsize=(8, 12))
+plt.figure(figsize=(8, 12))
 
-pyplt.subplot(2, 1, 1)
+plt.subplot(2, 1, 1)
 plot_heatmap(corr_matrix_1, p_values_1, 'Spearman Rho Correlation Matrix: Baseline')
 
-pyplt.subplot(2, 1, 2)
+plt.subplot(2, 1, 2)
 plot_heatmap(corr_matrix_5, p_values_5, 'Spearman Rho Correlation Matrix: After Education')
 
 # Format adjustment layout to prevent overlap between the subplots, saving figure as svg, and display preview of what the end product looks like.
-pyplt.tight_layout()
-pyplt.savefig('combined_correlation_heatmap.svg', dpi=1200)
-pyplt.show()
+plt.tight_layout()
+plt.savefig('combined_correlation_heatmap.svg', dpi=1200)
+plt.show()
 
 # Moving the combined image to Google Drive.
 shutil.move('combined_correlation_heatmap.svg', '/content/drive/My Drive/Colab Notebooks/combined_correlation_heatmap.svg')
