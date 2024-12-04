@@ -26,7 +26,7 @@ data_5 = numeric_data.filter(regex='5$|A2$').drop(columns=exclude_columns, error
 
 # Function to create a correlation matrix and calculate p-values.
 def create_corr_matrix(data):
-    # Calculates the correlation coefficients and p-values using vectorization
+    # Calculates the correlation coefficients and p-values using vectorization.
     corr, p_values = spearmanr(data, axis=0)
     
     # Converts the numpy arrays to pandas DataFrames
