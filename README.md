@@ -23,8 +23,8 @@ Generated correlation heatmaps annotated with significance markers.
 Utilized vectorized operations for efficient computations.
 Technologies Used: Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib
 View Project: 
-1. Seperate Images Version - https://github.com/gf404/Portfolio/commit/831822c790a2ebb822fa91f1aea5984f080d0b60
-2. Combined Images Version - 
+a) Seperate Images Version - https://github.com/gf404/Portfolio/commit/831822c790a2ebb822fa91f1aea5984f080d0b60
+b) Combined Images Version - https://github.com/gf404/Portfolio/commit/25c1bb04ac72e883f3782171ceaa48009c154957
 
 2. Baseline vs. Post-Education Analysis with Bar Graphs
 Description: Analyzes changes in pain management metrics after an educational intervention, visualizing the results through bar charts with statistical annotations.
