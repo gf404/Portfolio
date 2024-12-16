@@ -23,10 +23,12 @@ Generated correlation heatmaps annotated with significance markers.
 Utilized vectorized operations for efficient computations.
 Technologies Used: Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib
 View Project: 
-a) Seperate Images Version - https://github.com/gf404/Portfolio/commit/831822c790a2ebb822fa91f1aea5984f080d0b60
-b) Combined Images Version - https://github.com/gf404/Portfolio/commit/25c1bb04ac72e883f3782171ceaa48009c154957
+a) Seperate Images Version -
+https://github.com/gf404/Portfolio/commit/831822c790a2ebb822fa91f1aea5984f080d0b60
+b) Combined Images Version -
+https://github.com/gf404/Portfolio/commit/25c1bb04ac72e883f3782171ceaa48009c154957
 
-2. Baseline vs. Post-Education Analysis with Bar Graphs
+3. Baseline vs. Post-Education Analysis with Bar Graphs
 Description: Analyzes changes in pain management metrics after an educational intervention, visualizing the results through bar charts with statistical annotations.
 Key Contributions:
 Applied the Wilcoxon signed-rank test to compare baseline and post-intervention measurements.
@@ -35,7 +37,7 @@ Emphasized clear variable labeling and interpretability for non-technical audien
 Technologies Used: Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib
 View Project: https://github.com/gf404/Portfolio/commit/f625e062771345a72199b8df43674cad0e42e017
 
-3. Data Summaries and Exploratory Data Analysis (EDA)
+4. Data Summaries and Exploratory Data Analysis (EDA)
 Description: Offers a structured overview of a dataset, including summary statistics, distribution plots, and initial correlations.
 Key Contributions:
 Computed summary statistics and identified preliminary trends.
