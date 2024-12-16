@@ -1,4 +1,4 @@
-Gabriel Fernandez’s Data Science Portfolio
+Gabriel Fernandez’s Portfolio
 
 About Me
 I am a Research Associate currently expanding my skill set to transition into a Data Scientist role. My background in research has equipped me with a strong foundation in critical thinking, 
