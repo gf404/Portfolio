@@ -44,7 +44,7 @@ Computed summary statistics and identified preliminary trends.
 Visualized variable distributions to guide further analysis.
 Established a reproducible EDA workflow suitable for initial data assessments.
 Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
-View Project
+View Project: https://github.com/gf404/Portfolio/commit/ef7206034288a69df1a4036697613115348a16d7
 
 Coursework Projects:
 In addition to my personal projects, I am continuously developing my skills through academic and online coursework. 
