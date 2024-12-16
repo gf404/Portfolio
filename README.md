@@ -3,7 +3,7 @@ Gabriel Fernandez’s Data Science Portfolio
 About Me
 I am a Research Associate currently expanding my skill set to transition into a Data Scientist role. My background in research has equipped me with a strong foundation in critical thinking, 
 experimental design, and data interpretation. Building on these experiences, I’ve developed a portfolio of projects showcasing my capabilities in data analysis, visualization, 
-and statistical modeling using Python, SQL, and various data science tools.I’m passionate about applying data-driven insights to solve real-world problems, enhance decision-making, 
+and statistical modeling using Python, SQL, and various data science tools. I’m passionate about applying data-driven insights to solve real-world problems, enhance decision-making, 
 and uncover meaningful patterns in complex datasets.
 
 Skills and Tools
