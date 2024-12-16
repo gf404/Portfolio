@@ -22,7 +22,7 @@ Performed Spearman rank-order correlations to identify significant relationships
 Generated correlation heatmaps annotated with significance markers.
 Utilized vectorized operations for efficient computations.
 Technologies Used: Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib
-View Project: https://github.com/gf404/Portfolio/commit/f625e062771345a72199b8df43674cad0e42e017
+View Project
 
 2. Baseline vs. Post-Education Analysis with Bar Graphs
 Description: Analyzes changes in pain management metrics after an educational intervention, visualizing the results through bar charts with statistical annotations.
@@ -31,7 +31,7 @@ Applied the Wilcoxon signed-rank test to compare baseline and post-intervention 
 Created a grouped bar chart with standard deviation error bars and significance indicators.
 Emphasized clear variable labeling and interpretability for non-technical audiences.
 Technologies Used: Python, Pandas, NumPy, SciPy, Seaborn, Matplotlib
-View Project
+View Project: https://github.com/gf404/Portfolio/commit/f625e062771345a72199b8df43674cad0e42e017
 
 3. Data Summaries and Exploratory Data Analysis (EDA)
 Description: Offers a structured overview of a dataset, including summary statistics, distribution plots, and initial correlations.
