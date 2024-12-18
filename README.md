@@ -27,8 +27,8 @@ Explores relationships between pain-related psychophysical variables before and 
 - Utilized vectorized operations for efficient computations.
 
 **View Project**:  
-- [Separate Images Version](separate_corr_matrices_pain_ed.py)  
-- [Combined Images Version](combined_corr_matrix_heatmap.py)
+- [Separate Images Version](https://github.com/gf404/Portfolio/blob/main/separate_corr_matrices_pain_ed.py)  
+- [Combined Images Version](https://github.com/gf404/Portfolio/blob/main/combined_corr_matrix_heatmap.py)
 
 ---
 
@@ -40,7 +40,7 @@ Analyzes changes in pain management metrics after an educational intervention, v
 - Created a grouped bar chart with standard deviation error bars and significance indicators.
 
 **View Project**:  
-[View Project](wilcoxon_comp_pain_ed_int.py)
+[View Project][wilcoxon_comp_pain_ed_int.py](https://github.com/gf404/Portfolio/blob/main/wilcoxon_comp_pain_ed_int.py)
 
 ---
 
@@ -52,7 +52,7 @@ Provides an overview of the dataset, including summary statistics, distribution 
 - Established a reproducible EDA workflow for initial assessments.
 
 **View Project**:  
-[View Project](Data_EDA_Sum.py)
+[View Project](https://github.com/gf404/Portfolio/blob/main/Data_EDA_Sum.py)
 
 ---
 
