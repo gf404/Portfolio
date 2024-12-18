@@ -52,7 +52,7 @@ Provides an overview of the dataset, including summary statistics, distribution 
 - Established a reproducible EDA workflow for initial assessments.
 
 **View Project**:  
-[View Project](https://github.com/gf404/Portfolio/commit/51b939194a77517544484f69090a5145a1019ea6)
+[View Project](Data_EDA_Sum.py)
 
 ---
 
