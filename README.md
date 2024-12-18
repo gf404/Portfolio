@@ -27,7 +27,7 @@ Explores relationships between pain-related psychophysical variables before and 
 - Utilized vectorized operations for efficient computations.
 
 **View Project**:  
-- [Separate Images Version](https://github.com/gf404/Portfolio/commit/831822c790a2ebb822fa91f1aea5984f080d0b60)  
+- [Separate Images Version](separate_corr_matrices_pain_ed.py)  
 - [Combined Images Version](combined_corr_matrix_heatmap.py)
 
 ---
