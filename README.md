@@ -40,7 +40,7 @@ Analyzes changes in pain management metrics after an educational intervention, v
 - Created a grouped bar chart with standard deviation error bars and significance indicators.
 
 **View Project**:  
-[View Project][wilcoxon_comp_pain_ed_int.py](https://github.com/gf404/Portfolio/blob/main/wilcoxon_comp_pain_ed_int.py)
+[View Project](https://github.com/gf404/Portfolio/blob/main/wilcoxon_comp_pain_ed_int.py)
 
 ---
 
