@@ -1,4 +1,4 @@
-### 3. Data Summaries and Exploratory Data Analysis (EDA)
+### 3. Data Summaries and Exploratory Data Analysis (EDA).
 # Imports necessary libraries for data manipulation, statistical analysis, and visualization.
 import pandas as pd
 import seaborn as sns
