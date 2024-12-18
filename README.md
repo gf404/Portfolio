@@ -28,7 +28,7 @@ Explores relationships between pain-related psychophysical variables before and 
 
 **View Project**:  
 - [Separate Images Version](https://github.com/gf404/Portfolio/commit/831822c790a2ebb822fa91f1aea5984f080d0b60)  
-- [Combined Images Version](https://github.com/gf404/Portfolio/commit/25c1bb04ac72e883f3782171ceaa48009c154957)
+- [Combined Images Version](combined_corr_matrix_heatmap.py)
 
 ---
 
