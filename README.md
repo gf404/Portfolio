@@ -1,7 +1,7 @@
 # Gabriel Fernandez’s Portfolio
 
 ## About Me
-I am a **Research Associate** currently expanding my skill set to transition into a **Data Scientist** role. My background in research has equipped me with a strong foundation in critical thinking, experimental design, and data interpretation. Building on these experiences, I’ve developed a portfolio of projects showcasing my capabilities in data analysis, visualization, and statistical modeling using Python, SQL, and various data science tools.
+I am a **Research Associate** actively expanding my technical skill set to transition into a full-time **Data Scientist** role. My background in research has equipped me with a strong foundation in critical thinking, experimental design, and data interpretation. Building on these experiences, I’ve developed a portfolio of projects showcasing my capabilities in data analysis, visualization, and statistical modeling using Python, SQL, and various data science tools.
 
 ---
 
@@ -61,3 +61,6 @@ Feel free to explore my portfolio and reach out if you have any questions or col
 
 - **Email**: [fernagabriel8@gmail.com](mailto:fernagabriel8@gmail.com)  
 - **LinkedIn**: [Gabriel Fernandez]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gabriel-fernandez-b2065314a/)
+
+---  
+_Thank you for visiting my portfolio! More projects coming soon._
