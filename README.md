@@ -56,30 +56,6 @@ Provides an overview of the dataset, including summary statistics, distribution 
 
 ---
 
-## Other Projects
-
-In addition to my data science projects, I’ve worked on a variety of assignments and coursework in programming, web development, and database management. 
-These projects demonstrate my versatility and foundational skills in software development.
-
-### Highlights
-- **SQLite3 Data Management**:  
-  Designed and queried relational databases for efficient data storage and retrieval.  
-  [View Project](https://github.com/yourusername/Portfolio)
-
-- **Flask Web Applications**:  
-  Built dynamic web applications integrated with databases for back-end functionality.  
-  [View Project](https://github.com/yourusername/Portfolio)
-
-- **C Programming Assignments**:  
-  Implemented sorting algorithms, memory management, and file I/O using C.  
-  [View Project](https://github.com/yourusername/Portfolio)
-
-- **HTML/CSS Projects**:  
-  Designed static web pages with responsive layouts and styled them for user-friendly interfaces.  
-  [View Project](https://github.com/yourusername/Portfolio)
-
----
-
 ## Contact
 Feel free to explore my portfolio and reach out if you have any questions or collaboration opportunities!
 
