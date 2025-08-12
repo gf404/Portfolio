@@ -60,7 +60,7 @@ Provides an overview of the dataset, including summary statistics, distribution 
 Feel free to explore my portfolio and reach out if you have any questions or collaboration opportunities!
 
 - **Email**: [fernagabriel8@gmail.com](mailto:fernagabriel8@gmail.com)  
-- **LinkedIn**: [Gabriel Fernandez]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gabriel-fernandez-b2065314a/)
+- **LinkedIn**: [Gabriel Fernandez][https://www.linkedin.com/in/GabrielEFernandez](https://www.linkedin.com/in/gabriel-fernandez-b2065314a/)
 
 ---  
 _Thank you for visiting my portfolio! More projects coming soon._
