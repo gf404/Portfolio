@@ -1,14 +1,14 @@
 # Gabriel Fernandez’s Portfolio
 
 ## About Me
-I am a **Research Associate** actively expanding my technical skill set to transition into a full-time **Data Scientist** role. My background in research has equipped me with a strong foundation in critical thinking, experimental design, and data interpretation. Building on these experiences, I’ve developed a portfolio of projects showcasing my capabilities in data analysis, visualization, and statistical modeling using Python, SQL, and various data science tools.
+I am a **Research Associate** with 4+ years of experience in mixed-methods research, behavioral analytics, and audience insights. My background in clinical and UX research has equipped me with a strong foundation in experimental design, statistical analysis, and data interpretation. I combine quantitative tools (Python, SQL, SPSS) with qualitative methods (surveys, structured feedback, usability studies) to translate complex data into actionable insights. This portfolio showcases my work in data analysis, visualization, and statistical modeling, demonstrating how I apply research rigor and technical expertise to solve real-world problems.
 
 ---
 
 ## Skills and Tools
 
 - **Programming Languages**: Python, SQL  
-- **Data Manipulation & Analysis**: Pandas, NumPy  
+- **Data Manipulation & Analysis**: Pandas, NumPy, SPSS  
 - **Statistical Methods**: Correlation analysis, Wilcoxon signed-rank test, Spearman’s rank correlation  
 - **Data Visualization**: Matplotlib, Seaborn  
 - **Machine Learning**: Fundamentals in scikit-learn (in progress)  
