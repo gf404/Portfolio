@@ -1,18 +1,21 @@
 # Gabriel Fernandez’s Portfolio
 
 ## About Me
-I am a **Research Associate** with 4+ years of experience in mixed-methods research, behavioral analytics, and audience insights. My background in clinical and UX research has equipped me with a strong foundation in experimental design, statistical analysis, and data interpretation. I combine quantitative tools (Python, SQL, SPSS) with qualitative methods (surveys, structured feedback, usability studies) to translate complex data into actionable insights. This portfolio showcases my work in data analysis, visualization, and statistical modeling, demonstrating how I apply research rigor and technical expertise to solve real-world problems.
+I am a **Research Associate and Data Analyst** with 4+ years of experience in mixed-methods research, behavioral analytics, and insight generation across clinical, academic, and applied settings. My background spans experimental design, data analysis, and evidence-based evaluation, using both quantitative tools (Python, SQL, SPSS) and qualitative methods (surveys, structured feedback, usability studies).
+
+This portfolio highlights my work in data analysis, visualization, research workflows, and statistical modeling, demonstrating how I combine research rigor with technical skills to answer meaningful questions across UX, clinical, and data-focused environments.
 
 ---
 
 ## Skills and Tools
 
-- **Programming Languages**: Python, SQL  
-- **Data Manipulation & Analysis**: Pandas, NumPy, SPSS  
-- **Statistical Methods**: Correlation analysis, Wilcoxon signed-rank test, Spearman’s rank correlation  
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Machine Learning**: Fundamentals in scikit-learn (in progress)  
-- **Workflow & Environment**: Google Colab, Git, GitHub  
+- **Quantitative Analysis**: Python, SQL, SPSS, Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Statistics**: Correlation analysis, non-parametric tests, behavioral data interpretation
+- **Research Methods**: Surveys, structured interviews, user feedback, study design
+- **Data Science Foundations**: EDA workflows, reproducible analysis, scikit-learn basics
+- **Environment & Tools**: Google Colab, Git/GitHub
+- **Data Formats**: CSVs, spreadsheets, basic JSON handling via Python
 
 ---
 
@@ -53,6 +56,16 @@ Provides an overview of the dataset, including summary statistics, distribution 
 
 **View Project**:  
 [View Project](https://github.com/gf404/Portfolio/blob/main/Data_EDA_Sum.py)
+
+---
+
+### What This Portfolio Demonstrates
+
+- Ability to analyze structured datasets using Python.
+- Experience translating results into clear visual insights.
+- Research-driven workflow design across UX, clinical, and academic settings.
+- Strong quantitative foundation supporting both research and analytics roles.
+- Ability to document and communicate findings for diverse stakeholders.
 
 ---
 
