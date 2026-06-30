@@ -3,7 +3,7 @@
 ## About Me
 I am a **Research Associate and Data Analyst** with 4+ years of experience in mixed-methods research, behavioral analytics, and insight generation across clinical, academic, and applied settings. My background spans study coordination, research design, data analysis, evidence-based evaluation, and stakeholder-facing communication using quantitative tools such as Python, SQL, and SPSS, along with qualitative methods including surveys, structured interviews, and participant feedback.
 
-This portfolio highlights my work in data analysis, visualization, research workflows, and statistical modeling. It demonstrates how I combine research rigor with technical skills to answer meaningful questions across clinical research, healthcare analytics, education, UX research, and applied insights environments.
+This portfolio highlights my work in data analysis, visualization, research workflows, and statistical modeling. It demonstrates how I combine research rigor with technical skills to answer meaningful questions across clinical research, healthcare analytics, education, assessment-based research, UX research, and applied insights environments.
 
 ---
 
