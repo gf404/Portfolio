@@ -10,7 +10,7 @@ This portfolio highlights my work in data cleaning, exploratory analysis, visual
 ## Skills and Tools
 
 - **Data Analysis & Management**: Python, SQL, Excel, SPSS, Pandas, NumPy
-- **Data Quality & Research Workflows**: Data cleaning, validation checks, spreadsheet-based tracking, analysis-ready dataset preparation.
+- **Data Quality & Research Workflows**: Data cleaning, validation checks, spreadsheet-based tracking, analysis-ready dataset preparation
 - **Visualization**: Matplotlib, Seaborn, annotated research figures
 - **Statistics**: Descriptive statistics, correlation analysis, non-parametric tests, behavioral data interpretation
 - **Research Methods**: Surveys, structured interviews, participant feedback, study design, mixed-methods research
